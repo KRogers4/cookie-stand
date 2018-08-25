@@ -1,0 +1,51 @@
+#header-container {
+    background-color: #333;
+    height: 60px;
+    margin: 0;
+}
+ #nav-wrapper {
+     width: 1000px;
+     margin: 0 auto;
+ }
+ #logo {
+    float: left;
+    width: 200px;
+    margin: 7px;
+}
+
+#logo a {
+    text-decoration: none;
+}
+
+.pat-style, .crab-style, .cookies-style {
+    font-weight: 600;
+    font-size: 25px;   
+}
+
+.pat-style { color: goldenrod;}
+.crab-style { color: red;}
+.cookies-style{ color: white;}
+
+/* nav main menu*/
+
+#main-nav {
+    float: right;
+    margin: 15px 0px 15px 0px;
+}
+#main-nav ul li  {
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+
+#main-nav a {
+    text-decoration: none;
+}
+
+#main-nav a:hover { color: goldenrod;}
+.pats-white {
+    color: white;
+}
+.current {
+    color: goldenrod;
+}

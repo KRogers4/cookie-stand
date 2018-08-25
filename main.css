@@ -1,0 +1,92 @@
+/* table row and table header have borders around them
+ */
+ table, th, td {
+    border: 1px solid teal;
+ }
+
+ /* .store-table {
+    border: 1px solid teal;
+    
+ }
+ td {
+    border: 1px solid teal;
+
+ } */
+
+ .image-container {
+    width: 100%
+    text-align: center; 
+    display: inline-block;
+}
+/* float */
+
+.crab-image {
+    width: 20%
+
+}
+
+p {
+    width: 70%;
+    text-align: center;
+}
+
+
+<!-- 
+            HEADER
+         -->
+        header {
+        background-color: rgba (0,0,0, .7);
+        position: absolute; 
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 10  
+        <!-- z-index property specifies the order to load the stack order on an element. -->
+        align-items: center; 
+        color: #fff;
+        padding: 35px  100px  20px
+        display: flex;
+        justify-content 
+        
+    }
+
+    header nav {
+display: flex; 
+
+}
+
+    header nav li {
+    margin: 0 15px;
+}
+
+    header nav li:first-child {
+    margin-left: 0;
+}
+
+header nav li:last-child {
+    margin-right: 0;
+}
+
+header h2 {
+font-family: 'Georgia', serif;
+
+}
+
+@media(max-width: 1000px) {
+    header {
+padding: 20px  50px;
+
+    }
+
+}
+
+@media(max-width: 700px) {
+    header {
+flext-direction: column;
+
+    }
+header h2 {
+    margin-boottom: 15px;
+
+}
+}
