@@ -1,0 +1,14 @@
+/* table row and table header have borders around them
+ */
+ table, th, td {
+    border: 1px solid teal;
+ }
+
+ /* .store-table {
+    border: 1px solid teal;
+    
+ }
+ td {
+    border: 1px solid teal;
+
+ } */
