@@ -1,0 +1,44 @@
+*
+
+.my-body{
+    width: 100%;
+}
+
+.img-salescontainer {
+    /* background-color: url(../Kcookie-stand5/images/PCCbanner5.png); */
+    /* background-color: url(../Kookie-stand5/images/PCCbanner5.png);
+    width: 50%; */
+    /* text-align: left; */
+    /* float: left; */
+    /* height: 98%; */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative; */
+}
+
+.PCC-image {
+width: 20%;
+}
+
+.table-container {
+width: 900px;
+margin: auto;
+}
+
+/* table, th, td {
+    border: 1px solid teal;
+} */
+
+.store-table {
+    border: 1px solid teal;
+}
+
+th, td {
+    border: 1px solid teal;
+}
+
+.footer {
+    border: 2px solid black;
+    color: teal;
+}
