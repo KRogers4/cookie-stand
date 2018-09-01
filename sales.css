@@ -4,7 +4,7 @@
     width: 100%;
 }
 
-.img-salescontainer {
+/* .img-salescontainer { */
     /* background-color: url(../Kcookie-stand5/images/PCCbanner5.png); */
     /* background-color: url(../Kookie-stand5/images/PCCbanner5.png);
     width: 50%; */
@@ -15,7 +15,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: relative; */
-}
+/* } */
 
 .PCC-image {
 width: 20%;

@@ -9,11 +9,12 @@ body{
 
 
 .img-container {
-    background-image: url(../Kcookie-stand5/images/JnRPCC2.png);
+    background-image: url("../cookie-stand/images/JnRPCC.png");
+
     height: 100%;
     /*width: 900%  /*  <-- */
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;  
     background-size: contain; /*  <-- or cover but must position height/width */
     position: relative   /* played with absolute, fixed didn't work */
 /*    max-width: 900px;   /*  <-- */
